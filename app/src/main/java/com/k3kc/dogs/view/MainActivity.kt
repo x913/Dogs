@@ -1,7 +1,8 @@
-package com.k3kc.dogs
+package com.k3kc.dogs.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.k3kc.dogs.R
 
 class MainActivity : AppCompatActivity() {
 
